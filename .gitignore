@@ -1,6 +1,4 @@
-# Joblib model files
-*.joblib
-*.pkl
+
 
 # Python
 __pycache__/
