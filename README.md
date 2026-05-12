@@ -20,9 +20,9 @@ and geographic features.
 - Deployed as interactive web app using Streamlit
 
 ## Model Performance
-Train R² : 0.987  
-Test R²  : 0.888  
-CV Mean R² : 0.803  
+Train R² Score : 0.9832
+Test R²  Score : 0.8882
+Overfit Gap    : 0.095
 
 
 ## Tech Stack
